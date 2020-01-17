@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Satisfy', cursive;
+    src: url("fuentes\Satisfy-Regular.ttf");
+    }
+body{
+    background-color:  rgb(179, 208, 233);;
+    position: relative;
+    font-family: 'Satisfy', cursive;
+}
+header{
+    background-color: rgb(65, 65, 202);
+    margin-top: 0;
+    margin-bottom: 2%;
+    text-align: center;
+    color:  rgb(179, 208, 233);
+}
+h2{
+    text-align: center;
+    font-family: 'Satisfy', cursive;
+}
+#label1{
+    position: absolute;
+    margin-top: 60px;
+}
+article{
+    margin-left: 8%;
+}
+#p1{
+    margin-top: 30px;
+    width: 63%;
+}
+#masa{
+position: absolute;
+float: right;
+margin-left:8%;
+}
